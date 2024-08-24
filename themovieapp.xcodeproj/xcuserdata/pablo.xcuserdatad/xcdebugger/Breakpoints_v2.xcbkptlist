@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "65195BE9-6E3A-427E-A9FA-57243080C6F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A63F067-9C39-4DEB-A8FC-622AD2531647"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "themovieapp/Module/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getListOfMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A63F067-9C39-4DEB-A8FC-622AD2531647 - c03d789437e25a21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for themovieapp.HomeInteractor.getListOfMovies() async -&gt; themovieapp.PopularMovieResponseModel"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "301">
+               </Location>
+               <Location
+                  uuid = "0A63F067-9C39-4DEB-A8FC-622AD2531647 - 5110a9f6bd0329e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for themovieapp.HomeInteractor.getListOfMovies() async -&gt; themovieapp.PopularMovieResponseModel"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "0A63F067-9C39-4DEB-A8FC-622AD2531647 - 5d8c5dd61c4fbe33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for themovieapp.HomeInteractor.getListOfMovies() async -&gt; themovieapp.PopularMovieResponseModel"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  uuid = "0A63F067-9C39-4DEB-A8FC-622AD2531647 - 205bccb77619400a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for themovieapp.HomeInteractor.getListOfMovies() async -&gt; themovieapp.PopularMovieResponseModel"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E322A222-4342-4F7B-B3A8-95F0D6CCA0A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "themovieapp/Module/UserInterface/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "onViewAppear()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E322A222-4342-4F7B-B3A8-95F0D6CCA0A0 - 95fc83b659521375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in themovieapp.HomePresenter.onViewAppear() -&gt; ()"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/UserInterface/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E322A222-4342-4F7B-B3A8-95F0D6CCA0A0 - 4af176bd5dcde00f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in themovieapp.HomePresenter.onViewAppear() -&gt; ()"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/UserInterface/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "E322A222-4342-4F7B-B3A8-95F0D6CCA0A0 - 42f051f3754f6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in themovieapp.HomePresenter.onViewAppear() -&gt; ()"
+                  moduleName = "themovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pablo/Desktop/themovie_app/themovieapp/Module/UserInterface/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
